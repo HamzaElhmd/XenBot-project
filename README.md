@@ -6,6 +6,10 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
+## Summary
+
+XenBot aims at supporting people in need of a support system.
+
 ## Background
 
 General Purpose Chatbot that assists the elderly, people in-need, marginalized groups. It aims at bringing the best company for people who suffer from loneliness and neglect from society.
